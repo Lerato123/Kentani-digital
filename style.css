@@ -65,7 +65,7 @@ header {
 header::before {
     content: '';
     position: absolute;
-    background: #000000b9;
+    background: #030812e8;
     top: 0;
     left: 0;
     width: 100%;
