@@ -53,7 +53,7 @@ html {
 }
 
 header {
-    background: url("/assets/images/background/bg-header.jpg") no-repeat;
+    background: url("../images/background/bg-header.jpg") no-repeat;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -272,7 +272,7 @@ backdrop-filter: blur(20px);
 /* services section  */
 .services {
     overflow: hidden;
-    background: url("/assets/images/website-hosting.jpg") no-repeat;
+    background: url("../images/website-hosting.jpg") no-repeat;
     /* background-position: center; */
     background-size: cover;
     background-attachment: fixed;
